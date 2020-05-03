@@ -1,1 +1,2 @@
-*.json
+# ignore json file
+sam-gcp-learn-terraform-admin.json.json
